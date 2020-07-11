@@ -1,4 +1,6 @@
 ### Hi, I am Jayraj
+I'm a developer working primarily in the fields of IoT and Blockchain. 
+I like forntend development too
 
 [![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/jayraj-roshan/)
 [![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)

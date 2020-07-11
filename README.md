@@ -1,7 +1,7 @@
 # Hi, I am Jayraj
 ## I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-<img align='right' src='https://giphy.com/embed/bcKmIWkUMCjVm' width='200"'>
+<img align='right' src='https://giphy.com/gifs/bcKmIWkUMCjVm/html5' width='200"'>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/jayraj-roshan/)

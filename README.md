@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/jayraj-roshan/)
 [![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
+[![Gmail Badge](https://img.shields.io/badge/-jayrajroshan1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayrajroshan1@gmail.com)](mailto:jayrajroshan1@gmail.com)
 
 <!--
 Here are some ideas to get you started:

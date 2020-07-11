@@ -9,7 +9,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 [![Website Badge](https://img.shields.io/badge/-jayraj.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jayraj.co.in/)](https://jayraj.co.in/)
 [![Gmail Badge](https://img.shields.io/badge/-jayrajroshan1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayrajroshan1@gmail.com)](mailto:jayrajroshan1@gmail.com)
 
-##⚡ Technologies:
+## ⚡ Technologies:
 - Internet of Things
 - Blockchain
 - Web Development

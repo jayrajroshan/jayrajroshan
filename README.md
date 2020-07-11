@@ -1,6 +1,7 @@
 ### Hi, I am Jayraj
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jayraj Roshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/harshkumarkhatri/)
+[![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/jayraj-roshan/)
+[![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
 
 <!--
 Here are some ideas to get you started:

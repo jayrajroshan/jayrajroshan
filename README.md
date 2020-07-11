@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi, I am Jayraj
+
+[![Linkedin Badge](https://img.shields.io/badge/-jayrajroshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)]
 
 <!--
-**jayrajroshan/jayrajroshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

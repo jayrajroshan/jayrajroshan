@@ -10,6 +10,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 [![Gmail Badge](https://img.shields.io/badge/-jayrajroshan1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayrajroshan1@gmail.com)](mailto:jayrajroshan1@gmail.com)
 
 ## ⚡ Domains:
+- Internet of Things
 - Blockchain
 - Web Development
 
